@@ -1,2 +1,4 @@
 # coders-tensorflow_docker_howto
-First how todo tutorial for my dear friends coders
+repo for coders  
+https://coderslink.com/talento/blog/how-to-use-the-three-most-in-demand-technologies-python-ia-and-cloud-computing-part-1/
+
