@@ -1,5 +1,5 @@
 FROM alpine:3.7
-MAINTAINER Binghong Liang <liangbinghong@gmail.com>
+MAINTAINER Binghong Liang <bygreg******@gmail.com>
 
 ENV JAVA_HOME /usr/lib/jvm/java-1.8-openjdk
 ENV BAZEL_VERSION 0.10.0
